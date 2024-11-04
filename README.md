@@ -9,4 +9,5 @@ Contains a class which has a couple of scenarios that test the functions in the 
 
 
 
+_NB_
 **For the purpose of this assessment, I assumed Microsoft SQL Server as the database engine. And as such the sql commands conforms with it.**
